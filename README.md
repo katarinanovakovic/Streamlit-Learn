@@ -1,12 +1,12 @@
-##  Streamlit Learn
-# O projektu
+#  Streamlit Learn
+## O projektu
 Streamlit Learn je mini tečaj za učenje Streamlit-a, kreiran kao završni rad studentice računarstva na Fakultetu elektrotehnike, strojarstva i brodogradnje (FESB). Cilj ovog projekta je pružiti korisnicima osnovna znanja o korištenju Streamlit biblioteke.
 
-# Instalacija
-pip install streamlit
-streamlit run Dobrodošli.py
+## Instalacija
+- pip install streamlit
+- streamlit run Dobrodošli.py
 
-# Sadržaj aplikacije
+## Sadržaj aplikacije
 1. Dobrodošli
 2. Što je Streamlit?
 3. Prikaz teksta
@@ -15,8 +15,8 @@ streamlit run Dobrodošli.py
 6. Prikaz medija i raspored aplikacije
 7. Provjera znanja
 
-# Autorica
+## Autorica
 Katarina Novaković
 
-# Godina izrade
+## Godina izrade
 2023.
